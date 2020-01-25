@@ -1,6 +1,5 @@
 %define		plugin	aggregate
 %define		php_min_version 5.0.0
-%include	/usr/lib/rpm/macros.php
 Summary:	Cacti plugin to aggregate graphs from Graph Management
 Name:		cacti-plugin-%{plugin}
 Version:	0.75
